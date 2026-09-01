@@ -1,0 +1,11 @@
+native:
+  object: ###ZARF_VAR_OBJECT###
+  array: "###ZARF_VAR_ARRAY###"
+  boolean: "###ZARF_VAR_BOOLEAN###"
+  integer: "###ZARF_VAR_INTEGER###"
+  number: "###ZARF_VAR_NUMBER###"
+  nullable:
+    enabled: true
+  overlayOnly: true
+
+packageOverride: false

@@ -1,3 +1,4 @@
 backend:
   name: schema-app
   replicaCount: 2
+  packageOverride: package
